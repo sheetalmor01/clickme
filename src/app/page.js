@@ -10,6 +10,7 @@ export default function home() {
   };
   return (
     <div className={style.page}>
+      xgdghegxhesgdxh1
       <main className={style.main}>
         <button onClick={deepika}>click me</button>
         <h1>name is {name}</h1>
